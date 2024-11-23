@@ -2,7 +2,7 @@
 
 ## Overview
 This portfolio showcases an SQL project simulating an e-commerce platform. The database is designed to handle common business operations such as product management, order processing, payments, and customer reviews. It demonstrates both foundational and advanced SQL skills, including database design, data analysis, and query optimization.
-- **Repo link**: (https://github.com/khorlaxy/e_commerce_sql_portfolio)
+- **Repo link**: https://github.com/khorlaxy/e_commerce_sql_portfolio
 ---
 
 ## Features
