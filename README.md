@@ -139,4 +139,3 @@ This project is open-source and available under the MIT License.
 If you have any questions or need further assistance, feel free to reach out:
 - **Email**: michaeladekanye23@gmail.com
 - **GitHub Profile**: (https://github.com/khorlaxy)
-```
